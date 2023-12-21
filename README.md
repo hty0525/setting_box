@@ -4,7 +4,7 @@
   - main - 실제 배포
   - dev - 배포전 테스트
   - feat/기능
-- issue 및 pr 템플릿 작성하기
+- issue 및 pr 템플릿 작성하기 ( 템플릿 참조 : <a href="https://github.com/team-opensource-plus/dummy-generator" target="_blank">링크</a>)
 - 브랜치 순서 (단독 작업일 경우는 issue 및 pr 템플릿 작성은 꼭 잊지말기)
   1. 기능을 완성한다.
   2. pull request를 요청한다
