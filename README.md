@@ -73,8 +73,8 @@ SYMBOLIC_CONSTANTS;
 const dog;
 const variableName;
 
-// 배열 - 배열은 복수형 이름을 사용
-const dogs = [];
+// 배열 - 배열은 끝에 List 사용
+const userList = [];
 
 // 정규표현식 - 정규표현식은 'r'로 시작
 const rDesc = /.*/;
